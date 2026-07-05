@@ -10,3 +10,6 @@ secrets/
 
 # macOS
 .DS_Store
+
+# Local Flux bootstrap file
+fluxinstance.yaml
