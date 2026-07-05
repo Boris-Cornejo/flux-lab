@@ -1,0 +1,12 @@
+
+# Local environment variables / secrets
+variables
+.env
+.env.*
+*.pem
+
+# Local secret folder
+secrets/
+
+# macOS
+.DS_Store
